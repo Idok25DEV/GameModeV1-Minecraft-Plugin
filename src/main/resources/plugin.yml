@@ -1,0 +1,12 @@
+name: GameModeV1
+version: '${project.version}'
+main: com.idok.gamemodev1.GameModeV1
+api-version: '1.16'
+description: "By IdokDev || To Start Type /help"
+commands:
+  gm1:
+  gm2:
+  gm3:
+  gm4:
+  gmhelp:
+  website:
